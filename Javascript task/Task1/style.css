@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fdfdfd;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.container {
+    margin-top: 100px;
+    background-color: rgb(241, 241, 241);
+    border: 2px solid ;
+    padding:6px;
+    width:400px; 
+    height:500px;
+
+
+
+}
+.square{
+
+    width:70px;
+    height:70px;
+    margin-left: 160px;
+    margin-top: 100px;
+    border: 2px solid;
+    background-color: black;
+}
+h1{
+
+    color: white;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.btn{
+     margin-left: 153px;
+     background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
+     
+
+}
+.header{
+
+    color: black;
+    margin-left: 100px;
+    
+}

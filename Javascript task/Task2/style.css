@@ -1,0 +1,25 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: aqua;
+}
+.container{
+
+
+    margin-top: 100px;
+    
+    
+}
+
+input{
+    
+    display: block;
+}
+button{
+
+    margin-top: 10px;
+    
+}
+
